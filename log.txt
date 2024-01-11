@@ -1,0 +1,18 @@
+Start to enter the information..
+Information entered
+Start to enter the data..
+Data entered completely..
+Start to enter the information..
+Information entered
+Start to enter the data..
+Data entered completely..
+comparing 7820960012 and 7820960012
+
+Start to enter the information..
+Information entered
+Start to enter the data..
+Data entered completely..
+comparing 7796041658 and 7820960012
+
+comparing 7796041658 and 7796041658
+
